@@ -1,0 +1,13 @@
+{
+  "name": "Toko Digital Indonesia",
+  "short_name": "Toko Digital",
+  "description": "Solusi digital untuk kebutuhan bisnis Anda.",
+  "lang": "id-ID",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07172f",
+  "theme_color": "#07172f",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
